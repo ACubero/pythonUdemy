@@ -9,4 +9,4 @@ if numero1 > numero2:
 if numero2 > numero1:
     print("El segundo número es mayor que el primero")
 
-print("fin de partido vamos a or ellos")
+print("fin")
